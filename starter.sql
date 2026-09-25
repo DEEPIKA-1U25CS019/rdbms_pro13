@@ -11,8 +11,6 @@
 -- Write your normalized CREATE TABLE statements below.
 
 
--- Table 1
--- CREATE TABLE ...
 
 
 -- Table 2
